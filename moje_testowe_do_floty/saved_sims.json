@@ -1,0 +1,39 @@
+{
+    "1": {
+        "name": "Pierwsza",
+        "ports": [],
+        "shipLocations": {},
+        "ships": [],
+        "workers": []
+    },
+    "2": {
+        "name": "Losowe",
+        "ports": [
+            {
+                "continent": "ffe",
+                "country": "erf",
+                "latitude": 23.0,
+                "longitude": 24.0,
+                "name": "gasd",
+                "terminals": []
+            }
+        ],
+        "shipLocations": {
+            "erc": "gasd"
+        },
+        "ships": [
+            {
+                "capacity": 43.0,
+                "cargoType": "gfvd",
+                "name": "erc",
+                "remainingTime": 0,
+                "speed": 32.0,
+                "status": 0,
+                "targetPort": "",
+                "type": "fgvd",
+                "waitingTime": 0
+            }
+        ],
+        "workers": []
+    }
+}
